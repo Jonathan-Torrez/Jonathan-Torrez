@@ -1,6 +1,6 @@
 <div  id="header"align="center"  >
         <img src="https://t3.ftcdn.net/jpg/03/21/24/30/360_F_321243084_GstfWflk1eTLlzUdRZ5mjoP5IG1iCc8J.webp"windth="220" >
-    <h1 align="center">Hola,Mi Soy  Jonathan Torrez Lopez</h1>
+    <h1 align="center">Hola, Soy  Jonathan Torrez Lopez</h1>
 
    
  "Soy un desarrollador frontend junior con sólidos conocimientos en HTML, CSS ,JavaScript . 
